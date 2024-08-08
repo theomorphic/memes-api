@@ -6,7 +6,7 @@
 }
 
 body{
-	background-color: #F89F49;
+	background-color: #601D25;
 }
 
 .container{
@@ -48,7 +48,7 @@ body{
 	font-size: 1.2em;
 	padding: .8em 2em;
 	border-radius: 2em;
-	background-color: #F89F49;
+	background-color: #601D25;
 	border: none;
 	outline: none;
 	color: #fff;
@@ -57,12 +57,12 @@ body{
 }
 
 .container button:hover{
-	background-color: #dd8432;
+	background-color: #52181e;
 
 }
 
 .container button:active{
-	background-color: #945B23;
+	background-color: #3b0c12;
 }
 
 @media  screen and (max-width: 600px) {
